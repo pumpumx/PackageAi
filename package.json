@@ -9,6 +9,10 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+  "engines": {
+    "node":"23.9.0",
+    "pnpm":"10.8.1"
+  },
   "dependencies": {
     "@google/generative-ai": "^0.24.0",
     "autoprefixer": "^10.4.21",
