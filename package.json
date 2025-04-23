@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "engines": {
-    "node":"23.9.0",
+    "node":"23.x",
     "pnpm":"10.8.1"
   },
   "dependencies": {
